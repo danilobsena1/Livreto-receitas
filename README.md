@@ -1,5 +1,5 @@
 
-# Livro de Receitas :man cook:
+# Livro de Receitas :man:
 
 
 Seja bem vindo ao meu livro de receitas :hibiscus:
